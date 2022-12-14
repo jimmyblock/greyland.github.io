@@ -1,11 +1,11 @@
 @font-face {
   src: url(ModernWarfare-OV7KP.ttf);
-  font-family: Modern Warfare;
+  font-family: ModernWarfare;
 }
 
 @font-face {
   src: url(fonts/VirtualRotRegular-R51V.ttf);
-  font-family: Virtual Rot;
+  font-family: VirtualRot;
 }
 
 :root {
