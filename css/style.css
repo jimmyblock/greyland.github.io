@@ -1,11 +1,11 @@
 @font-face {
   src: url(fonts/ModernWarfare-OV7KP.ttf);
-  font-family: ModernWarfare;
+  font-family: Modern Warfare;
 }
 
 @font-face {
   src: url(fonts/VirtualRotRegular-R51V.ttf);
-  font-family: VirtualRot;
+  font-family: Virtual Rot;
 }
 
 :root {
@@ -46,14 +46,14 @@ h4 {
 
 h1 {
   font-size: 80px;
-  font-family: VirtualRot;
+  font-family: Virtua lRot;
   color: var(--color-white);
   margin: 10px 0;
 }
 
 h2 {
   font-size: 60px;
-  font-family: ModernWarfare;
+  font-family: Modern Warfare;
   color: var(--color-white);
   margin: 10px 0;
 }
@@ -61,14 +61,14 @@ h2 {
 
 h3 {
   font-size: 40px;
-  font-family: ModernWarfare;
+  font-family: Modern Warfare;
   color: var(--color-white);
   margin: 10px 0;
 }
 
 h4 {
   font-size: 30px;
-  font-family: ModernWarfare;
+  font-family: Modern Warfare;
   color: var(--color-white);
   margin: 10px 0;
 }
